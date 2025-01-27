@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "fetch": "^1.1.0",
-    "react": "^16.9.0",
+    "react": "^16.14.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
     "twilio": "^3.33.3"
